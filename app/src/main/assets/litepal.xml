@@ -1,0 +1,9 @@
+<litepal>
+    <dbname value = "cool_weather"/>
+    <version value="1"/>
+    <list>
+        <mapping class="com.chuangfeng.weather.db.Province"/>
+        <mapping class="com.chuangfeng.weather.db.City"/>
+        <mapping class="com.chuangfeng.weather.db.County"/>
+    </list>
+</litepal>
